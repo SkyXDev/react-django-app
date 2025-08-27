@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-a@85jb65+!yddw5)=w2k3466c23a58#s_lrradcznsl^=*&404
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["*"] #backendservice
+ALLOWED_HOSTS = ["https://github.com/SkyXDev/react-django-app/tree/main/server"] #backendservice
 
 
 # Application definition
